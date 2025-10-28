@@ -1,0 +1,11 @@
+date,district,malaria_cases,cholera_cases
+2023-01,Kisumu,120,8
+2023-02,Kisumu,145,12
+2023-03,Kisumu,160,9
+2023-04,Kisumu,180,10
+2023-05,Kisumu,155,6
+2023-01,Mombasa,40,30
+2023-02,Mombasa,50,35
+2023-03,Mombasa,48,40
+2023-04,Mombasa,55,45
+2023-05,Mombasa,60,38
